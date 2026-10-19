@@ -196,3 +196,4 @@ Follow these 5 simple steps during your viva demonstration to showcase all key f
 | **PL/SQL Cursors** | `get_case_hearings` procedure returning `SYS_REFCURSOR` parameter to Java JDBC. |
 | **PL/SQL Triggers** | `trg_hearing_date_check` (Before Insert/Update validation), `trg_status_audit` (After Update auditing), `trg_no_self_citation` (Constraint check), custom error raising via `RAISE_APPLICATION_ERROR`. |
 | **Java Database Connectivity (JDBC)** | Plain Java JDBC using `PreparedStatement`, `CallableStatement`, `ResultSetMetaData`, connection lifecycle, and `try-with-resources`. |
+
