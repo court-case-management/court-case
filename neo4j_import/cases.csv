@@ -1,0 +1,51 @@
+case_no,title,filing_date,case_type,status,court_id
+SC-1950-08,A.K. Gopalan v. State of Madras,1950-03-01,Constitutional Law,Closed,1
+SC-1951-01,State of Madras v. Champakam Dorairajan,1951-01-10,Fundamental Rights,Closed,1
+SC-1954-04,MP Sharma v. Satish Chandra,1954-02-15,Privacy & Search,Closed,1
+SC-1967-02,I.C. Golaknath v. State of Punjab,1966-07-20,Constitutional Law,Closed,1
+SC-1970-03,R.C. Cooper v. Union of India,1969-08-11,Banking & Property,Closed,1
+SC-1973-01,Kesavananda Bharati v. State of Kerala,1972-08-10,Constitutional Law,Closed,1
+SC-1975-10,Indira Nehru Gandhi v. Raj Narain,1975-06-24,Election Law,Closed,1
+SC-1976-05,ADM Jabalpur v. Shivkant Shukla,1975-12-14,Habeas Corpus,Closed,1
+SC-1978-02,Maneka Gandhi v. Union of India,1977-07-04,Fundamental Rights,Closed,1
+SC-1979-01,Hussainara Khatoon v. Home Secretary Bihar,1978-10-18,Human Rights,Closed,1
+SC-1980-04,Minerva Mills Ltd. v. Union of India,1979-01-15,Constitutional Law,Closed,1
+SC-1980-14,Bachan Singh v. State of Punjab,1979-11-20,Criminal Law,Closed,1
+SC-1982-01,SP Gupta v. Union of India (Judges Transfer),1981-05-12,Judicial Independence,Closed,1
+SC-1985-09,Mohd. Ahmed Khan v. Shah Bano Begum,1984-02-12,Family Law,Closed,1
+SC-1985-15,Olga Tellis v. Bombay Municipal Corp,1984-09-01,Civil Rights,Closed,1
+SC-1987-03,MC Mehta v. Union of India (Oleum Gas),1986-01-28,Environmental Law,Closed,1
+SC-1992-06,Indra Sawhney v. Union of India,1991-03-15,Affirmative Action,Closed,1
+SC-1993-02,Supreme Court Advocates-on-Record (Second Judges),1992-04-10,Judicial Appointment,Closed,1
+SC-1994-03,S.R. Bommai v. Union of India,1989-10-05,Administrative Law,Closed,1
+SC-1997-03,Vishaka v. State of Rajasthan,1996-05-18,Human Rights,Closed,1
+SC-1997-05,D.K. Basu v. State of West Bengal,1996-08-14,Custodial Rights,Closed,1
+SC-1998-01,Vineet Narain v. Union of India,1997-02-10,Anti-Corruption,Closed,1
+SC-2002-05,T.M.A. Pai Foundation v. State of Karnataka,2001-04-18,Education Law,Closed,1
+SC-2006-03,M. Nagaraj v. Union of India,2005-06-12,Constitutional Law,Closed,1
+SC-2007-01,I.R. Coelho v. State of Tamil Nadu,2006-01-15,Basic Structure,Closed,1
+SC-2011-11,Aruna Shanbaug v. Union of India,2009-12-16,Medical Jurisprudence,Closed,1
+SC-2014-04,NALSA v. Union of India,2013-05-10,Gender Rights,Closed,1
+SC-2015-06,Shreya Singhal v. Union of India,2013-01-20,Cyber Law,Closed,1
+SC-2015-10,NJAC Case (Supreme Court AOR Assoc),2014-08-25,Judicial Appointment,Closed,1
+SC-2017-07,Shayara Bano v. Union of India,2015-10-31,Personal Law,Closed,1
+SC-2018-05,K.S. Puttaswamy v. Union of India,2012-11-09,Privacy Law,Closed,1
+SC-2018-06,Navtej Singh Johar v. Union of India,2016-04-27,Constitutional Law,Closed,1
+SC-2018-09,Joseph Shine v. Union of India,2017-10-15,Gender Equality,Closed,1
+SC-2018-10,Indian Young Lawyers (Sabarimala Case),2016-08-11,Religious Rights,Closed,1
+SC-2018-12,Common Cause v. Union of India,2014-06-11,Bioethics & Rights,Closed,1
+SC-2019-11,RTI v. Chief Justice of India,2018-03-20,Transparency Law,Closed,1
+SC-2020-01,Anuradha Bhasin v. Union of India,2019-08-14,Internet Freedom,Closed,1
+SC-2021-05,Maratha Reservation Case (Jaishri Patil),2020-02-11,Constitutional Law,Closed,1
+SC-2022-04,Pegasus Spyware Inquiry Case,2021-08-05,Surveillance & Rights,Closed,1
+SC-2023-01,Supriyo @ Supriya Chakraborty v. UOI,2022-12-14,Marriage Rights,Closed,1
+SC-2024-02,Association for Democratic Reforms (Electoral Bonds),2023-03-01,Election Transparency,Closed,1
+HC-2022-101,Digital Rights Foundation v. State of TN,2022-04-12,Cyber Privacy,Closed,2
+HC-2023-101,State of TN v. Tech Corp Ltd,2023-02-14,Cyber & Contract,Open,2
+HC-2023-201,Delhi Citizens Forum v. Delhi Pollution Board,2023-05-18,Environmental Law,Open,3
+HC-2024-205,Delhi Citizens Forum v. MCD,2024-01-10,Public Interest Litigation,Open,3
+HC-2023-301,Bombay Bar Association v. Union of India,2023-08-22,Tribunal Independence,Closed,4
+HC-2024-401,Bengal Miners Association v. Coal Authority,2024-02-18,Labor & Mining,Open,5
+HC-2024-501,Bengaluru Techies Union v. IT Services Corp,2024-03-10,Employment Law,Open,6
+DC-2024-501,Ramesh Kumar v. Suresh Gupta,2024-03-22,Criminal Fraud,Under Appeal,7
+DC-2024-602,V. Swaminathan v. Metro Rail Corp,2024-05-15,Land Acquisition,Open,8

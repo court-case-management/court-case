@@ -1,0 +1,17 @@
+lawyer_id,party_id,case_no,role
+201,308,SC-1973-01,Lead Counsel for Petitioner
+202,309,SC-1978-02,Senior Counsel for Petitioner
+203,301,SC-1978-02,Additional Solicitor General
+201,301,SC-1980-04,Counsel for Petitioner
+204,305,SC-1980-14,Defense Counsel
+207,310,SC-2015-06,Lead Counsel for Petitioner
+208,301,SC-2015-06,Attorney General for India
+209,311,SC-2018-05,Senior Counsel for Petitioner
+210,301,SC-2018-06,Senior Advocate
+214,318,SC-2018-10,Senior Counsel for Petitioners
+211,316,SC-2024-02,Counsel for Association for Democratic Reforms
+212,316,SC-2024-02,Senior Counsel for Petitioner
+215,317,SC-2020-01,Senior Counsel for Journalist Anuradha Bhasin
+206,312,HC-2023-101,Corporate Defense Lawyer
+205,303,HC-2023-101,Advocate General
+213,320,HC-2022-101,Senior Counsel for Privacy Rights

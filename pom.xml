@@ -21,6 +21,13 @@
             <artifactId>ojdbc11</artifactId>
             <version>21.9.0.0</version>
         </dependency>
+
+        <!-- Neo4j Java Driver 5.x (Bolt Protocol) -->
+        <dependency>
+            <groupId>org.neo4j.driver</groupId>
+            <artifactId>neo4j-java-driver</artifactId>
+            <version>5.20.0</version>
+        </dependency>
     </dependencies>
 
     <build>
@@ -39,7 +46,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.1.0</version>
                 <configuration>
-                    <mainClass>Main</mainClass>
+                    <mainClass>${exec.mainClass}</mainClass>
                 </configuration>
             </plugin>
         </plugins>
